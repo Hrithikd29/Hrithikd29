@@ -1,4 +1,3 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2990CqsEwGJW-9ta3oVVBTZ44PAm3KLq9om-hJcKqoeuFENrjUVhWy30nrP5RkxeA1I)
 <h1 align="center">Hi 👋, I'm Hrithik D</h1>
 <h3 align="center">I am a Machine Learning enthusiast. I love programming and solving problems using the power of programming. As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -16,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hrithik-d-4a9767237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrithik d" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhrithik29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhrithik29" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
